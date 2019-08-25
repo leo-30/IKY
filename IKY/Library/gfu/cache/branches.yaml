@@ -13,17 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-08-23T23:11:27.357+09:00
-  initializedAtString: 2019-08-23T23:11:27.347+09:00
+  lastUpdatedAtString: 2019-08-25T22:19:03.838+09:00
+  initializedAtString: 2019-08-25T21:35:01.072+09:00
   localBranches:
   - name: master
     tracking: origin/master
+  - name: SignInScene
+    tracking: origin/SignInScene
   remoteBranches:
-  - name: origin/HEAD
+  - name: origin/master
+    tracking: '[None]'
+  - name: origin/mio
+    tracking: '[None]'
+  - name: origin/SignInScene
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/leo-30/IKY.git
+    url: https://github.com/leo-30/IKY
     login: 
     user: 
     host: 
@@ -32,28 +38,46 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
+    - SignInScene
     values:
     - name: master
       remote:
         name: origin
-        url: https://github.com/leo-30/IKY.git
+        url: https://github.com/leo-30/IKY
       trackingBranch: master
+    - name: SignInScene
+      remote:
+        name: origin
+        url: https://github.com/leo-30/IKY
+      trackingBranch: SignInScene
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - HEAD
+      - master
+      - mio
+      - SignInScene
     subKeyValues:
     - Values:
-      - name: HEAD
+      - name: master
         remote:
           name: origin
-          url: https://github.com/leo-30/IKY.git
+          url: https://github.com/leo-30/IKY
+        trackingBranch: 
+      - name: mio
+        remote:
+          name: origin
+          url: https://github.com/leo-30/IKY
+        trackingBranch: 
+      - name: SignInScene
+        remote:
+          name: origin
+          url: https://github.com/leo-30/IKY
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/leo-30/IKY.git
+      url: https://github.com/leo-30/IKY

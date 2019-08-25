@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343586748164",
+    "firebase_url": "https://iky-urutest01.firebaseio.com",
+    "project_id": "iky-urutest01",
+    "storage_bucket": "iky-urutest01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343586748164:android:dab7b41aba986b98",
+        "android_client_info": {
+          "package_name": "com.AR.IKY"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343586748164-a23j60bac7rab0c69nles9fhvqiop1kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALlizuwaCLWqKQk818R35IMYKYAHAKh7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343586748164-a23j60bac7rab0c69nles9fhvqiop1kc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343586748164-hbr151u0e0d1egcotuc4q40rsd0gb53t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AR.IKY"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
