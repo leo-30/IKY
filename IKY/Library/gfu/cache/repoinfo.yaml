@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-08-25T21:20:56.449+09:00
+  lastUpdatedAtString: 2019-08-25T23:13:00.318+09:00
   initializedAtString: 2019-08-25T21:15:55.559+09:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: mio
-    tracking: 
+    tracking: origin/mio
   currentConfigBranch:
     name: mio
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/leo-30/IKY.git
+    trackingBranch: mio
   currentConfigRemote:
     name: origin
     url: https://github.com/leo-30/IKY.git

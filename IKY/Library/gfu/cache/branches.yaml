@@ -13,17 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-08-25T21:20:56.969+09:00
+  lastUpdatedAtString: 2019-08-25T22:40:31.570+09:00
   initializedAtString: 2019-08-25T21:16:34.861+09:00
   localBranches:
   - name: master
     tracking: origin/master
   - name: mio
-    tracking: 
+    tracking: origin/mio
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
+  - name: origin/SignInScene
+    tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/mio
     tracking: '[None]'
   remotes:
   - name: origin
@@ -45,16 +49,18 @@ MonoBehaviour:
       trackingBranch: master
     - name: mio
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/leo-30/IKY.git
+      trackingBranch: mio
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
+      - SignInScene
       - master
+      - mio
     subKeyValues:
     - Values:
       - name: HEAD
@@ -62,7 +68,17 @@ MonoBehaviour:
           name: origin
           url: https://github.com/leo-30/IKY.git
         trackingBranch: 
+      - name: SignInScene
+        remote:
+          name: origin
+          url: https://github.com/leo-30/IKY.git
+        trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/leo-30/IKY.git
+        trackingBranch: 
+      - name: mio
         remote:
           name: origin
           url: https://github.com/leo-30/IKY.git

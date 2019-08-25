@@ -13,9 +13,279 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-08-25T21:33:59.285+09:00
+  lastUpdatedAtString: 2019-08-25T22:42:39.121+09:00
   initializedAtString: 2019-08-25T21:15:55.392+09:00
   log:
+  - commitID: 06360a3d753e55031034838488ac6e69a060e4f6
+    mergeA: 
+    mergeB: 
+    authorName: leo-30
+    authorEmail: mio.rabbit971.snow@gmail.com
+    commitEmail: mio.rabbit971.snow@gmail.com
+    commitName: leo-30
+    summary: "RealtimeDatabase\u306EURL\u3092\u66F4\u65B0"
+    description: 
+    timeString: 2019-08-25T22:30:53.000+09:00
+    commitTimeString: 2019-08-25T22:30:53.000+09:00
+    changes:
+    - path: IKY/Assets/Scripts/DatabaseAccess.cs
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Assets/Scripts/DatabaseAccess.cs"
+      projectPath: Assets/Scripts/DatabaseAccess.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 694ac1cc542feeb2e11696788bda8e13eec7e083
+    mergeA: 
+    mergeB: 
+    authorName: leo-30
+    authorEmail: mio.rabbit971.snow@gmail.com
+    commitEmail: mio.rabbit971.snow@gmail.com
+    commitName: leo-30
+    summary: "\u30D6\u30E9\u30F3\u30C1\u5207\u3063\u305F\u3002"
+    description: 
+    timeString: 2019-08-25T21:34:38.000+09:00
+    commitTimeString: 2019-08-25T21:34:38.000+09:00
+    changes:
+    - path: IKY/Assets/Scenes/WriteScene.unity
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Assets/Scenes/WriteScene.unity"
+      projectPath: Assets/Scenes/WriteScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Assets/Scenes/WriteScene.unity.meta
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Assets/Scenes/WriteScene.unity.meta"
+      projectPath: Assets/Scenes/WriteScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Assets/Scripts.meta
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Assets/Scripts.meta"
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Assets/Scripts/DatabaseAccess.cs
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Assets/Scripts/DatabaseAccess.cs"
+      projectPath: Assets/Scripts/DatabaseAccess.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Assets/Scripts/DatabaseAccess.cs.meta
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Assets/Scripts/DatabaseAccess.cs.meta"
+      projectPath: Assets/Scripts/DatabaseAccess.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/CurrentLayout.dwlt
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/CurrentLayout.dwlt"
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/EditorInstance.json
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/EditorInstance.json"
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/ScriptAssemblies/Assembly-CSharp.dll"
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/ScriptAssemblies/Assembly-CSharp.pdb"
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/ScriptAssemblies/BuiltinAssemblies.stamp"
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/Library/StateCache/Hierarchy/845629-mainStage.json
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/StateCache/Hierarchy/845629-mainStage.json"
+      projectPath: Library/StateCache/Hierarchy/845629-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/assetDatabase3
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/assetDatabase3"
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/branches.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/branches.yaml"
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gitlocks.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gitlocks.yaml"
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gitlog.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gitlog.yaml"
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gitstatusentries.yaml"
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gittrackingstatus.yaml"
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/repoinfo.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/repoinfo.yaml"
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/metadata/4e/4ec571cbdecce46b282193f6cf522f98
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/metadata/4e/4ec571cbdecce46b282193f6cf522f98"
+      projectPath: Library/metadata/4e/4ec571cbdecce46b282193f6cf522f98
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/metadata/4e/4ec571cbdecce46b282193f6cf522f98.info
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/metadata/4e/4ec571cbdecce46b282193f6cf522f98.info"
+      projectPath: Library/metadata/4e/4ec571cbdecce46b282193f6cf522f98.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97"
+      projectPath: Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97.info
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97.info"
+      projectPath: Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/metadata/86/867715144b16447b6b65f63ec3549f81
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/metadata/86/867715144b16447b6b65f63ec3549f81"
+      projectPath: Library/metadata/86/867715144b16447b6b65f63ec3549f81
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/metadata/86/867715144b16447b6b65f63ec3549f81.info
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/metadata/86/867715144b16447b6b65f63ec3549f81.info"
+      projectPath: Library/metadata/86/867715144b16447b6b65f63ec3549f81.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-098f2e611b3454f979799f23fcfa7ee7
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-098f2e611b3454f979799f23fcfa7ee7"
+      projectPath: Temp/UnityTempFile-098f2e611b3454f979799f23fcfa7ee7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-1a2ab32a0e1c24ebb9786a3454ef9130
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-1a2ab32a0e1c24ebb9786a3454ef9130"
+      projectPath: Temp/UnityTempFile-1a2ab32a0e1c24ebb9786a3454ef9130
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-241f833c1b93b4241bc91e2e1949c7b3
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-241f833c1b93b4241bc91e2e1949c7b3"
+      projectPath: Temp/UnityTempFile-241f833c1b93b4241bc91e2e1949c7b3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-4334eb22c0b1c449e90eaf1a8d846069
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-4334eb22c0b1c449e90eaf1a8d846069"
+      projectPath: Temp/UnityTempFile-4334eb22c0b1c449e90eaf1a8d846069
+      originalPath: IKY/Temp/UnityTempFile-518a44e298e1641058bf73f3ff445e7b
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-5553358c8585e4838aa75163a52bc4b9
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-5553358c8585e4838aa75163a52bc4b9"
+      projectPath: Temp/UnityTempFile-5553358c8585e4838aa75163a52bc4b9
+      originalPath: IKY/Temp/UnityTempFile-60129660e05fe49379cc15bb9c7923a1
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-56f914d70b02d42689ef7ce33b21c762
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-56f914d70b02d42689ef7ce33b21c762"
+      projectPath: Temp/UnityTempFile-56f914d70b02d42689ef7ce33b21c762
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-718785a1655004613b7d500cbc0499fa
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-718785a1655004613b7d500cbc0499fa"
+      projectPath: Temp/UnityTempFile-718785a1655004613b7d500cbc0499fa
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-9149ed1f1c8354663ab5895a1908e64a
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-9149ed1f1c8354663ab5895a1908e64a"
+      projectPath: Temp/UnityTempFile-9149ed1f1c8354663ab5895a1908e64a
+      originalPath: IKY/Temp/UnityTempFile-ad4dc1d1e22474b25ba44d47ec940a45
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-d8c8b843ee4f5467aab3a723f294bf8a
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-d8c8b843ee4f5467aab3a723f294bf8a"
+      projectPath: Temp/UnityTempFile-d8c8b843ee4f5467aab3a723f294bf8a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-d8cb851d713634009bb0f77ddd4160ba
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-d8cb851d713634009bb0f77ddd4160ba"
+      projectPath: Temp/UnityTempFile-d8cb851d713634009bb0f77ddd4160ba
+      originalPath: IKY/Temp/UnityTempFile-67535673a3d7a4baf8b9138e478d06c2
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-ed97b712660124bf78f860a197667e9e
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-ed97b712660124bf78f860a197667e9e"
+      projectPath: Temp/UnityTempFile-ed97b712660124bf78f860a197667e9e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-f4b256f3c200c4d369bf8cb133e023f4
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-f4b256f3c200c4d369bf8cb133e023f4"
+      projectPath: Temp/UnityTempFile-f4b256f3c200c4d369bf8cb133e023f4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: IKY/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache"
+      projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache"
+      projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache"
+      projectPath: obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache"
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 89a5174d6ba24a16dee1f038049de5dc7e46f32b
     mergeA: 
     mergeB: 
