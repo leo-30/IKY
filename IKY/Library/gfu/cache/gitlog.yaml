@@ -13,9 +13,99 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-08-25T22:42:39.121+09:00
-  initializedAtString: 2019-08-25T21:15:55.392+09:00
+  lastUpdatedAtString: 2019-08-25T23:35:26.219+09:00
+  initializedAtString: 2019-08-25T23:35:26.219+09:00
   log:
+  - commitID: c80253d153a70caac626d315820ce09f22856408
+    mergeA: 
+    mergeB: 
+    authorName: leo-30
+    authorEmail: mio.rabbit971.snow@gmail.com
+    commitEmail: mio.rabbit971.snow@gmail.com
+    commitName: leo-30
+    summary: "add\u3067\u304D\u306A\u3044\u554F\u984C\uFF1F"
+    description: 
+    timeString: 2019-08-25T23:14:05.000+09:00
+    commitTimeString: 2019-08-25T23:14:05.000+09:00
+    changes:
+    - path: IKY/Library/ShaderCache/7/7132995b1a905fca6223d18460fed0fe.bin
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/ShaderCache/7/7132995b1a905fca6223d18460fed0fe.bin"
+      projectPath: Library/ShaderCache/7/7132995b1a905fca6223d18460fed0fe.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/ShaderCache/7/7e662a31b2d04d3d7d39e4110058edb9.bin
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/ShaderCache/7/7e662a31b2d04d3d7d39e4110058edb9.bin"
+      projectPath: Library/ShaderCache/7/7e662a31b2d04d3d7d39e4110058edb9.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IKY/Library/assetDatabase3
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/assetDatabase3"
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/branches.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/branches.yaml"
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gitlocks.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gitlocks.yaml"
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gitlog.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gitlog.yaml"
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gitstatusentries.yaml"
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gittrackingstatus.yaml"
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/gituser.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/gituser.yaml"
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/gfu/cache/repoinfo.yaml
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/gfu/cache/repoinfo.yaml"
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97"
+      projectPath: Library/metadata/85/8537f2479dbd747db9b5ad9c32646d97
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Library/shadercompiler-UnityShaderCompiler0.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY/Temp/UnityTempFile-e25ce581bfbca4b599b4ee7e9194eec3
+      fullPath: "/Users/haradamio/Library/Mobile Documents/com~apple~CloudDocs/AR_\u958B\u767A/IKY/IKY/Temp/UnityTempFile-e25ce581bfbca4b599b4ee7e9194eec3"
+      projectPath: Temp/UnityTempFile-e25ce581bfbca4b599b4ee7e9194eec3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 06360a3d753e55031034838488ac6e69a060e4f6
     mergeA: 
     mergeB: 
