@@ -13,9 +13,105 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-08-25T22:50:50.856+09:00
-  initializedAtString: 2019-08-25T22:32:04.248+09:00
+  lastUpdatedAtString: 2019-10-13T22:25:40.609+09:00
+  initializedAtString: 2019-10-13T22:16:11.312+09:00
   log:
+  - commitID: c1e8009c27e416fce16cf82512f415d6ea3b7922
+    mergeA: 
+    mergeB: 
+    authorName: meganerisu
+    authorEmail: legoizumi_show@yahoo.co.jp
+    commitEmail: legoizumi_show@yahoo.co.jp
+    commitName: meganerisu
+    summary: commit test2
+    description: 
+    timeString: 2019-08-25T23:18:44.000+09:00
+    commitTimeString: 2019-08-25T23:18:44.000+09:00
+    changes:
+    - path: IKY\Assets\Scripts\New Folder.meta
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Assets\Scripts\New Folder.meta
+      projectPath: Assets\Scripts\New Folder.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: e9a7cfd9b245b9fd829243c21d79e42b65fad303
+    mergeA: 
+    mergeB: 
+    authorName: meganerisu
+    authorEmail: legoizumi_show@yahoo.co.jp
+    commitEmail: legoizumi_show@yahoo.co.jp
+    commitName: meganerisu
+    summary: commit test
+    description: 
+    timeString: 2019-08-25T23:17:43.000+09:00
+    commitTimeString: 2019-08-25T23:17:43.000+09:00
+    changes:
+    - path: IKY\Assets\Scripts\New Folder.meta
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Assets\Scripts\New Folder.meta
+      projectPath: Assets\Scripts\New Folder.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 20946b77bfe6f53bcfc8235c3851d9fc533e230a
+    mergeA: 
+    mergeB: 
+    authorName: meganerisu
+    authorEmail: legoizumi_show@yahoo.co.jp
+    commitEmail: legoizumi_show@yahoo.co.jp
+    commitName: meganerisu
+    summary: commit from VScode
+    description: 
+    timeString: 2019-08-25T22:56:59.000+09:00
+    commitTimeString: 2019-08-25T22:56:59.000+09:00
+    changes:
+    - path: IKY\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IKY\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 9f4abc95b8e3ec1c31eec6b64c27a95a4b50e039
     mergeA: 
     mergeB: 

@@ -13,15 +13,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-08-25T22:50:57.885+09:00
-  initializedAtString: 2019-08-25T22:30:26.214+09:00
+  lastUpdatedAtString: 2019-10-13T22:26:10.150+09:00
+  initializedAtString: 2019-10-13T19:12:55.935+09:00
   entries:
+  - path: IKY\Assets\Scripts\InitFirebase.cs
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Assets\Scripts\InitFirebase.cs
+    projectPath: Assets\Scripts\InitFirebase.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Assets\Scripts\InitFirebase.cs.meta
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Assets\Scripts\InitFirebase.cs.meta
+    projectPath: Assets\Scripts\InitFirebase.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Assets\Scripts\SignInButton.cs
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Assets\Scripts\SignInButton.cs
+    projectPath: Assets\Scripts\SignInButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IKY\Assets\Scripts\ThreadDispatcher.cs
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Assets\Scripts\ThreadDispatcher.cs
+    projectPath: Assets\Scripts\ThreadDispatcher.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Assets\Scripts\ThreadDispatcher.cs.meta
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Assets\Scripts\ThreadDispatcher.cs.meta
+    projectPath: Assets\Scripts\ThreadDispatcher.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Library\assetDatabase3
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IKY\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: IKY\Library\EditorInstance.json
     fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: IKY\Library\expandedItems
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: IKY\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -64,9 +112,147 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: IKY\Library\metadata\16\16503a577bb268248b2ea8254fc7cd5e
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\metadata\16\16503a577bb268248b2ea8254fc7cd5e
+    projectPath: Library\metadata\16\16503a577bb268248b2ea8254fc7cd5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Library\metadata\16\16503a577bb268248b2ea8254fc7cd5e.info
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\metadata\16\16503a577bb268248b2ea8254fc7cd5e.info
+    projectPath: Library\metadata\16\16503a577bb268248b2ea8254fc7cd5e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Library\metadata\93\93991a9cee4ab2d4da4f268ccbfbc833
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\metadata\93\93991a9cee4ab2d4da4f268ccbfbc833
+    projectPath: Library\metadata\93\93991a9cee4ab2d4da4f268ccbfbc833
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IKY\Library\metadata\b7\b770946a00d859b4bb3812214f28ce23
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\metadata\b7\b770946a00d859b4bb3812214f28ce23
+    projectPath: Library\metadata\b7\b770946a00d859b4bb3812214f28ce23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Library\metadata\b7\b770946a00d859b4bb3812214f28ce23.info
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\metadata\b7\b770946a00d859b4bb3812214f28ce23.info
+    projectPath: Library\metadata\b7\b770946a00d859b4bb3812214f28ce23.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IKY\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IKY\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IKY\Library\StateCache\Hierarchy\845629-mainStage.json
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Library\StateCache\Hierarchy\845629-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\845629-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IKY\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IKY\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: IKY\Temp\UnityLockfile
     fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-1f24f77d96ba50a4da96be2f2166447b
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-1f24f77d96ba50a4da96be2f2166447b
+    projectPath: Temp\UnityTempFile-1f24f77d96ba50a4da96be2f2166447b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-2e429af5029b15f4ea210e4e31323d30
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-2e429af5029b15f4ea210e4e31323d30
+    projectPath: Temp\UnityTempFile-2e429af5029b15f4ea210e4e31323d30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-37cf7814d26119342a837f501a920590
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-37cf7814d26119342a837f501a920590
+    projectPath: Temp\UnityTempFile-37cf7814d26119342a837f501a920590
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-3c8e98a5a174a33409f8fdfee745e56c
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-3c8e98a5a174a33409f8fdfee745e56c
+    projectPath: Temp\UnityTempFile-3c8e98a5a174a33409f8fdfee745e56c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-3d1b99e3cd5ab70468943da137a8c82e
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-3d1b99e3cd5ab70468943da137a8c82e
+    projectPath: Temp\UnityTempFile-3d1b99e3cd5ab70468943da137a8c82e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-a39437de615fa9040a28d40e432921b4
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-a39437de615fa9040a28d40e432921b4
+    projectPath: Temp\UnityTempFile-a39437de615fa9040a28d40e432921b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-c51d5d03dbbc07f448751359419c10e9
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-c51d5d03dbbc07f448751359419c10e9
+    projectPath: Temp\UnityTempFile-c51d5d03dbbc07f448751359419c10e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-c908f7eb03120e54a9b3623bbad6fd57
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-c908f7eb03120e54a9b3623bbad6fd57
+    projectPath: Temp\UnityTempFile-c908f7eb03120e54a9b3623bbad6fd57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-d3d1e29df54b6444db1e76db7de0e8cf
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-d3d1e29df54b6444db1e76db7de0e8cf
+    projectPath: Temp\UnityTempFile-d3d1e29df54b6444db1e76db7de0e8cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-df6916af651ca364e9ef132bbf4f68ee
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-df6916af651ca364e9ef132bbf4f68ee
+    projectPath: Temp\UnityTempFile-df6916af651ca364e9ef132bbf4f68ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-ec1b022445a9d634f8e0868dbe340953
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-ec1b022445a9d634f8e0868dbe340953
+    projectPath: Temp\UnityTempFile-ec1b022445a9d634f8e0868dbe340953
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IKY\Temp\UnityTempFile-ff5c77d93d5496542b6bdb8652cd043c
+    fullPath: C:\Users\legoi\Documents\Unity\IKY\IKY\Temp\UnityTempFile-ff5c77d93d5496542b6bdb8652cd043c
+    projectPath: Temp\UnityTempFile-ff5c77d93d5496542b6bdb8652cd043c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
